@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\57320\OneDrive\Documentos\Nueva carpeta\Spring-backend-samu-main\src\.metadata\.plugins\org.eclipse.jdt.core
